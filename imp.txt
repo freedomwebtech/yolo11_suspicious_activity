@@ -1,5 +1,5 @@
 https://mega.nz/file/owEnQQBB#Xl1OhJBzIrEIUVBCEGo1A9z06HYPgss9kD9Oqa3ywKY
 
-pip install scikit-learn
-pip install xgboost
+scikit-learn
+xgboost
 
